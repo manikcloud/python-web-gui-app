@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-manikcloud-black.svg)](https://github.com/manikcloud)
 
+![image](https://github.com/user-attachments/assets/0e8ef32d-3cda-4ecd-8f06-dda1029596c5)
+
+
 A modern, responsive web-based GUI application built with Flask that runs in your browser!
 
 ## 🌟 Live Demo
