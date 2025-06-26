@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)](https://flask.palletsprojects.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-varunmanik-black.svg)](https://github.com/varunmanik)
+[![GitHub](https://img.shields.io/badge/GitHub-manikcloud-black.svg)](https://github.com/manikcloud)
 
 A modern, responsive web-based GUI application built with Flask that runs in your browser!
 

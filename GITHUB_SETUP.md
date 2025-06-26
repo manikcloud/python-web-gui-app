@@ -3,7 +3,7 @@
 ## Step 1: Create Repository on GitHub
 
 1. **Go to GitHub**: https://github.com
-2. **Sign in** with username: `varunmanik`
+2. **Sign in** with username: `manikcloud`
 3. **Click the "+" icon** in the top right corner
 4. **Select "New repository"**
 
@@ -27,7 +27,7 @@ After creating the repository, GitHub will show you commands. Use these instead:
 cd /mnt/c/Users/varunkum/Documents/aws-community/q/python_web_app
 
 # Add GitHub remote (replace with your actual repository URL)
-git remote add origin https://github.com/varunmanik/python-web-gui-app.git
+git remote add origin https://github.com/manikcloud/python-web-gui-app.git
 
 # Push your code to GitHub
 git push -u origin main
@@ -47,7 +47,7 @@ git push -u origin main
 
 ## 🎉 Your Repository is Ready!
 
-**Repository URL**: https://github.com/varunmanik/python-web-gui-app
+**Repository URL**: https://github.com/manikcloud/python-web-gui-app
 
 ### Features Included:
 - 📱 Modern responsive web interface
